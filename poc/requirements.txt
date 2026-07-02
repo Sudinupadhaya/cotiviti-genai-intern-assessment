@@ -1,0 +1,7 @@
+# Add project dependencies here
+# Example:
+# streamlit
+# pandas
+# numpy
+# openai
+# python-dotenv
